@@ -1,6 +1,5 @@
 # ESP32SharpIR
 An Arduino library for ESP32 development board that can measure distance from an analog Sharp IR sensor.
-Based on https://github.com/qub1750ul/Arduino_SharpIR
 
 ## Currently supported sensor models
 - GP2Y0A21YK0F  
