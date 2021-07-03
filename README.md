@@ -13,7 +13,7 @@ An Arduino library for ESP32 development board that can measure distance from an
 #include <ESP32SharpIR.h>
 ~~~
 
-- Creating an istance  
+- Creating an instance  
 
 ~~~c++
 SharpIR sensorName(sensorModel, sensorPin);
